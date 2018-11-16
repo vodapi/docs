@@ -1,0 +1,58 @@
+schema: unitapi/web
+version: 1.0.0
+events:
+  errors:
+    - "webpage is not working, browser show that page is not reachable, server Error"
+    - "Webpage is working, browser show error, or just information, but server is working"
+    - "Webpage is working correctly, but the from, or part of code show not correctly or save not correctly, incorretly data"
+
+
+datamodel:
+  - user
+  - user_data
+  - minijobber
+
+
+
+
+modules:
+
+architecture:
+
+
+design-patterns:
+
+documentation:
+  -
+    url: "gitlab"
+    version: 1
+  -
+
+staff:
+  -
+    name: ""
+    role: ""
+    departament: ""
+  -
+
+
+departaments:
+  it:
+    - java
+    - support
+
+
+rights:
+  - Normy prawne jakie obowiazuja
+  copyrights:
+  private:
+    - jakie dane firmy sa poufne
+  publication:
+    - jakie informacje nie sa poufne
+    - url
+    - ínformacje dotyczace publikowania na stronie,
+    - generowanie dokumentu z url
+
+przechowywanie danych i hasel:
+  - hasla do programow
+  -
