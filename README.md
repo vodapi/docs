@@ -6,12 +6,26 @@ The Idea, information for customers, important pages, Tutorial
 Modules:
   User Config
  
- Team work
- 
- Holidays
- 
+Team work
+  Person-worker-profile
+    When started 
+    when stop the contract
+    proffesion
+    
+    
  
  Events
+ 
+ Project
+  start
+  stop
+ 
+ Team
+  Holidays
+  Bithdys
+  
+  
+ 
  
  
  Recruiting
